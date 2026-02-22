@@ -8,9 +8,10 @@
   "theme_color": "#3498db",
   "icons": [
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIuOWVtIiBmb250LXNpemU9IjkwIj7DpHw8L3RleHQ+PC9zdmc+",
+      "src": "Examana.png",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }
   ]
+
 }
